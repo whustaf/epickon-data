@@ -1,46 +1,46 @@
 {
   "items": [
     {
-      "id": "evt-001",
+      "id": "evt-2024-10-31-halloween",
       "title": "Concierto Halloween",
-      "dateMillis": 1730338800000,
+      "dateMillis": 1730332800000,
       "type": "music",
       "description": "Fiesta temática con bandas locales y cosplay.",
       "flyerAsset": null,
       "tags": ["destacado", "halloween"],
       "galleryUrls": [
-        "https://iili.io/KrKkTl4.jpg",
-        "https://iili.io/KrKkIff.jpg"
+        "https://whustaf.github.io/epickon-data/images/flayer.jpeg",
+        "https://whustaf.github.io/epickon-data/images/hero-bg.jpeg"
       ],
-      "canonicalUrl": "https://tu-sitio.com/eventos/evt-001"
+      "canonicalUrl": null
     },
     {
-      "id": "evt-002",
+      "id": "evt-2024-09-14-gaming-arena",
       "title": "Gaming Arena",
-      "dateMillis": 1725140400000,
+      "dateMillis": 1726272000000,
       "type": "gaming",
       "description": "Torneos de eSports, zona retro y arcades.",
       "flyerAsset": null,
       "tags": ["torneo", "gaming"],
       "galleryUrls": [
-        "https://iili.io/KrKwyoG.jpg",
-        "https://iili.io/KrKwbNn.jpg"
+        "https://whustaf.github.io/epickon-data/images/gaming-arena.jpg",
+        "https://whustaf.github.io/epickon-data/images/gaming-arena.png"
       ],
-      "canonicalUrl": "https://tu-sitio.com/eventos/evt-002"
+      "canonicalUrl": null
     },
     {
-      "id": "evt-003",
+      "id": "evt-2024-07-20-kpop-night",
       "title": "K-Pop Night",
-      "dateMillis": 1719963600000,
+      "dateMillis": 1721433600000,
       "type": "kpop",
       "description": "Dance cover contest y random play dance.",
       "flyerAsset": null,
       "tags": ["kpop", "dance"],
       "galleryUrls": [
-        "https://iili.io/KrKVDg9.jpg",
-        "https://iili.io/KrKVt07.jpg"
+        "https://whustaf.github.io/epickon-data/images/kpop-event.jpg",
+        "https://whustaf.github.io/epickon-data/images/epickon.png"
       ],
-      "canonicalUrl": "https://tu-sitio.com/eventos/evt-003"
+      "canonicalUrl": null
     }
   ]
 }
