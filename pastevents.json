@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "id": "evt-001",
+      "title": "Concierto Halloween",
+      "dateMillis": 1730338800000,
+      "type": "music",
+      "description": "Fiesta temática con bandas locales y cosplay.",
+      "flyerAsset": null,
+      "tags": ["destacado", "halloween"],
+      "galleryUrls": [
+        "https://iili.io/KrKkTl4.jpg",
+        "https://iili.io/KrKkIff.jpg"
+      ],
+      "canonicalUrl": "https://tu-sitio.com/eventos/evt-001"
+    },
+    {
+      "id": "evt-002",
+      "title": "Gaming Arena",
+      "dateMillis": 1725140400000,
+      "type": "gaming",
+      "description": "Torneos de eSports, zona retro y arcades.",
+      "flyerAsset": null,
+      "tags": ["torneo", "gaming"],
+      "galleryUrls": [
+        "https://iili.io/KrKwyoG.jpg",
+        "https://iili.io/KrKwbNn.jpg"
+      ],
+      "canonicalUrl": "https://tu-sitio.com/eventos/evt-002"
+    },
+    {
+      "id": "evt-003",
+      "title": "K-Pop Night",
+      "dateMillis": 1719963600000,
+      "type": "kpop",
+      "description": "Dance cover contest y random play dance.",
+      "flyerAsset": null,
+      "tags": ["kpop", "dance"],
+      "galleryUrls": [
+        "https://iili.io/KrKVDg9.jpg",
+        "https://iili.io/KrKVt07.jpg"
+      ],
+      "canonicalUrl": "https://tu-sitio.com/eventos/evt-003"
+    }
+  ]
+}
